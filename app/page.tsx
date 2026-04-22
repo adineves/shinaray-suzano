@@ -1,4 +1,4 @@
-export default function ShineraySuzanoPreview() {
+export default function ShinerayFerrazPreview() {
   const motos = [
     {
       nome: "Denver 250",
@@ -33,7 +33,7 @@ export default function ShineraySuzanoPreview() {
   const beneficios = [
     "Atendimento rápido pelo WhatsApp",
     "Ajuda para financiamento",
-    "Loja local em Suzano",
+    "Loja local em Ferraz de Vasconcelos",
     "Catálogo digital com motos em destaque",
   ];
 
@@ -49,10 +49,10 @@ export default function ShineraySuzanoPreview() {
       <header className="sticky top-0 z-50 border-b border-zinc-200/80 bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 md:px-10 lg:px-12">
           <a href="#home" className="flex items-center gap-3">
-            <img src="/logo.png" alt="Shineray Suzano" className="h-20 w-auto" />
+            <img src="/logo.png" alt="Shineray Ferraz" className="h-20 w-auto" />
             <div>
               <div className="text-sm font-semibold uppercase tracking-[0.2em] text-zinc-500">Shineray</div>
-              <div className="text-base font-bold text-zinc-950">Suzano</div>
+              <div className="text-base font-bold text-zinc-950">Ferraz</div>
             </div>
           </a>
 
@@ -95,7 +95,7 @@ export default function ShineraySuzanoPreview() {
         <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 sm:py-16 md:grid-cols-2 md:px-10 md:py-20 lg:px-12">
           <div className="relative z-10 flex flex-col justify-center">
             <span className="mb-4 inline-flex w-fit rounded-full border border-white/15 bg-white/5 px-4 py-1 text-sm text-zinc-200">
-              Shineray Suzano • Conceito inicial
+              Moto da Gente - Shineray Ferraz • Conceito inicial
             </span>
             <h1 className="max-w-xl text-3xl font-bold leading-tight sm:text-4xl md:text-5xl">
               Sua próxima <span className="text-red-500">Shineray</span> começa aqui.
@@ -120,7 +120,7 @@ export default function ShineraySuzanoPreview() {
               </div>
               <div className="rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur">
                 <div className="text-2xl font-bold">Local</div>
-                <div className="mt-1 text-sm text-zinc-300">Presença digital para Suzano</div>
+                <div className="mt-1 text-sm text-zinc-300">Presença digital para Ferraz </div>
               </div>
             </div>
           </div>
@@ -258,7 +258,7 @@ export default function ShineraySuzanoPreview() {
           <div className="grid gap-8 md:grid-cols-[1fr_auto] md:items-center">
             <div>
               <p className="text-sm font-semibold uppercase tracking-[0.2em] text-red-500">Encerramento</p>
-              <h3 className="mt-2 text-3xl font-bold">Shineray Suzano com presença digital de verdade.</h3>
+              <h3 className="mt-2 text-3xl font-bold">Moto da Gente - Shineray Ferraz com presença digital de verdade.</h3>
               <p className="mt-4 max-w-2xl text-zinc-300">
                 Estoque em destaque, contato rápido, captação de leads e um visual alinhado à identidade da marca para passar mais confiança logo no primeiro acesso.
               </p>

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Shineray Suzano",
+  title: "Moto da Gente - Shineray Ferraz",
   description: "Sua próxima moto começa aqui",
 };
 
